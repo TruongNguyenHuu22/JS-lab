@@ -1,0 +1,25 @@
+{
+  "name": "js-lab",
+  "version": "1.0.0",
+  "description": "Learn JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongNguyenHuu22/JS-lab.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Henrry Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TruongNguyenHuu22/JS-lab/issues"
+  },
+  "homepage": "https://github.com/TruongNguyenHuu22/JS-lab#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
